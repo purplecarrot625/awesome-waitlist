@@ -9,7 +9,7 @@ Me: "Another day, another waitlist" 😂📝🚀
 
 
 
-| Name | Waitlist     | API docs        | Pricing         |  description        | Try it
+| Name | Waitlist     | API docs        | Pricing         |  Description (Translated by ChatGPT-4)        | Try it
 |---------|-------------------------------|-------------------------------|-------------------------------------------------|---------------------------------------|-----------------------|
 | GPT-4   | [Join waitlist 加入排队](https://openai.com/waitlist/gpt-4-api) | [API 查看文档](https://platform.openai.com/docs/api-reference/chat/create) | [Pricing 订阅价格](https://openai.com/pricing#gpt-4) | GPT-4 is OpenAI’s most advanced system, producing safer and more useful responses. GPT-4 can solve difficult problems with greater accuracy, thanks to its broader general knowledge and problem solving abilities. <br /><br />GPT-4是OpenAI家最牛逼的玩意儿，给你整出来的回应又安全又管用。这玩意儿了解的东西多，解决问题的能力更强，搞定棘手问题也准确多了。 |
 | GPT plugins   | [Join waitlist 加入排队](https://openai.com/waitlist/plugins) | [API 查看文档](https://platform.openai.com/docs/api-reference/chat/create) | [Pricing 订阅价格](https://openai.com/pricing#gpt-4) | Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run computations, or use third-party services. <br /><br />插件呢，就是特意给语言模型弄得一种工具，安全第一嘛。这玩意儿能帮ChatGPT弄到新鲜的消息、算计一通儿，还能用上别人家的服务。  |
