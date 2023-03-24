@@ -1,6 +1,6 @@
 # awesome-waitlist
 
-This repo was inspired by awsome.
+This repo was inspired by awesome.
 
 When you wake up to a new AI tool every day 🌞
 Me: "Another day, another waitlist" 😂📝🚀
