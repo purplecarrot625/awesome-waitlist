@@ -1,4 +1,4 @@
-# awsome-waitlist
+# awesome-waitlist
 
 This repo was inspired by awsome.
 
